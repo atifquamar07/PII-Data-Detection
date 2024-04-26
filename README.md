@@ -1,4 +1,4 @@
-# PII Data Detection Challenge
+# PII Data Detection
 
 Participated in the PII Data Detection competition, hosted by The Learning Agency Lab. [View the competition details here](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/data)
 
